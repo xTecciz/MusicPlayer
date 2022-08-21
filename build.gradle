@@ -2,6 +2,7 @@ buildscript {
     ext {
         compose_version = '1.2.1'
         hilt_version = '2.42'
+        exoPlayer_version = '2.11.8'
     }
 }// Top-level build file where you can add configuration options common to all sub-projects/modules.
 plugins {

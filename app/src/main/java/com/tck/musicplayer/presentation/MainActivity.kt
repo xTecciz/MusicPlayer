@@ -1,4 +1,4 @@
-package com.tck.musicplayer
+package com.tck.musicplayer.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
